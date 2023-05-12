@@ -1,5 +1,11 @@
 # Bidirectional list
 
+<p align="center">
+  
+![GitHub](https://img.shields.io/github/license/JarnotMaciej/bidirectional-list?style=flat-square) ![GitHub](https://img.shields.io/github/languages/top/JarnotMaciej/bidirectional-list?style=flat-square) ![GitHub](https://img.shields.io/github/languages/code-size/JarnotMaciej/bidirectional-list?style=flat-square) 
+
+</p>
+
 ## Short description
 
 This project implements a bidirectional list data structure in C++. A bidirectional list, also known as a doubly linked list, is a data structure that contains a list of elements, where each element has a reference to both the previous and the next elements in the list. This makes it possible to traverse the list in both directions, allowing for more flexible and efficient data manipulation.
