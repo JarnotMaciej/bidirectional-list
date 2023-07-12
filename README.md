@@ -1,14 +1,20 @@
+Date: 12.07.2023
+Tags: #github #readme 
+Referenced to:
+
+---
+
 # Bidirectional list
 
-<p align="center">
-  
 ![GitHub](https://img.shields.io/github/license/JarnotMaciej/bidirectional-list?style=flat-square) ![GitHub](https://img.shields.io/github/languages/top/JarnotMaciej/bidirectional-list?style=flat-square) ![GitHub](https://img.shields.io/github/languages/code-size/JarnotMaciej/bidirectional-list?style=flat-square) 
-
-</p>
 
 ## Short description
 
-This project implements a bidirectional list data structure in C++. A bidirectional list, also known as a doubly linked list, is a data structure that contains a list of elements, where each element has a reference to both the previous and the next elements in the list. This makes it possible to traverse the list in both directions, allowing for more flexible and efficient data manipulation.
+This project implements a bidirectional list data structure in C++. The list is implemented without using the standard template library (STL).
+
+A bidirectional list, also known as a doubly linked list, is a data structure that contains a list of elements, where each element has a reference to both the previous and the next elements in the list. This makes it possible to traverse the list in both directions, allowing for more flexible and efficient data manipulation.
+
+![render1689178187833-min](https://github.com/JarnotMaciej/bidirectional-list/assets/92025751/16e8e751-3644-4a20-af09-d69c3774a626)
 
 ## What problem does it solve?
 
@@ -23,3 +29,9 @@ Some of the problems solved by this program include:
 ## How to use it?
 
 The program can be used as a part of the other programs. Menu was implemented to show capabilities of the application. By default, list of people is assigned to the menu function.
+To use this project, follow the steps below:
+1. Download or clone the project from the repository.
+2. Make sure you have a C++ compiler installed on your system.
+3. Open the bidirectional folder in your preferred IDE or text editor.
+
+Feel free to modify and extend this project to suit your specific needs.
