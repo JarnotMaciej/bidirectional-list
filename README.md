@@ -1,9 +1,3 @@
-Date: 12.07.2023
-Tags: #github #readme 
-Referenced to:
-
----
-
 # Bidirectional list
 
 ![GitHub](https://img.shields.io/github/license/JarnotMaciej/bidirectional-list?style=flat-square) ![GitHub](https://img.shields.io/github/languages/top/JarnotMaciej/bidirectional-list?style=flat-square) ![GitHub](https://img.shields.io/github/languages/code-size/JarnotMaciej/bidirectional-list?style=flat-square) 
